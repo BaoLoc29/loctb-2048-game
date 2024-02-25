@@ -12,6 +12,7 @@ body {
   align-items: center;
   font-family: "Clear Sans", sans-serif;
   font-size: 21px;
+  margin-top: 50px;
 }
 
 .text {
@@ -20,7 +21,6 @@ body {
   width: 440px;
   font-weight: bold;
 }
-
 .board {
   order: 1;
   width: 440px;
@@ -70,6 +70,7 @@ body {
   width: 70px;
   padding: 5px 15px;
   border-radius: 7px;
+  text-align: center;
 }
 
 .cell,

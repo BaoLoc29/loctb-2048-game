@@ -5,7 +5,6 @@ import { Board } from '../helper';
 import useEvent from '../hooks/useEvent';
 import GameOverlay from './GameOverlay';
 
-
 const BoardView = () => {
     const [board, setBoard] = useState(new Board());
 
