@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BaoLoc29/loctb-2048-game/static/css/main.f9d9be8f.css",
+    "main.js": "/BaoLoc29/loctb-2048-game/static/js/main.dda0b2d9.js",
+    "static/media/2048.gif": "/BaoLoc29/loctb-2048-game/static/media/2048.f327dac376642d6d1051.gif",
+    "static/media/game-over.gif": "/BaoLoc29/loctb-2048-game/static/media/game-over.7223586a86c43a6c2902.gif",
+    "static/media/128.gif": "/BaoLoc29/loctb-2048-game/static/media/128.bfe74f56ba160673fb1b.gif",
+    "static/media/256.gif": "/BaoLoc29/loctb-2048-game/static/media/256.22a03274ba97c67b3437.gif",
+    "static/media/64.gif": "/BaoLoc29/loctb-2048-game/static/media/64.703f469ebcd51c30d4ec.gif",
+    "static/media/16.gif": "/BaoLoc29/loctb-2048-game/static/media/16.4ce00dae08a97e55d77e.gif",
+    "static/media/try-again.gif": "/BaoLoc29/loctb-2048-game/static/media/try-again.4f930231239de2db3c8d.gif",
+    "static/media/4.gif": "/BaoLoc29/loctb-2048-game/static/media/4.e3175aefe481e7058239.gif",
+    "static/media/32.gif": "/BaoLoc29/loctb-2048-game/static/media/32.0f7bb9c7a4e941f6495c.gif",
+    "static/media/1024.gif": "/BaoLoc29/loctb-2048-game/static/media/1024.d0422a77eb08d73b85c0.gif",
+    "static/media/8.gif": "/BaoLoc29/loctb-2048-game/static/media/8.da10f113d36b16cac5cd.gif",
+    "static/media/2.gif": "/BaoLoc29/loctb-2048-game/static/media/2.cb73ccf3bd443208f37f.gif",
+    "static/media/512.gif": "/BaoLoc29/loctb-2048-game/static/media/512.959c256e128f00187c42.gif",
+    "index.html": "/BaoLoc29/loctb-2048-game/index.html",
+    "static/media/clear-sans.ttf": "/BaoLoc29/loctb-2048-game/static/media/clear-sans.31d6cfe0d16ae931b73c.ttf",
+    "main.f9d9be8f.css.map": "/BaoLoc29/loctb-2048-game/static/css/main.f9d9be8f.css.map",
+    "main.dda0b2d9.js.map": "/BaoLoc29/loctb-2048-game/static/js/main.dda0b2d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d9be8f.css",
+    "static/js/main.dda0b2d9.js"
+  ]
+}
